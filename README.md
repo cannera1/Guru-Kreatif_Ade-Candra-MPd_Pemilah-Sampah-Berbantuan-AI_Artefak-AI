@@ -1,3 +1,4 @@
+<img width="1064" height="594" alt="1794703975894" src="https://github.com/user-attachments/assets/9bf316ea-9c04-4583-8990-eaf3eab35002" />
 # ♻️ Sistem Pemilah Sampah Otomatis Berbasis ESP32 developed By ade candra
 
 Projek ini adalah purwarupa (*prototype*) tempat sampah pintar berbasis mikrokontroler **ESP32** yang mampu mendeteksi dan memilah sampah secara otomatis ke dalam kategori **Logam**, **Organik**, dan **Anorganik** menggunakan kombinasi sensor proximity dan motor servo.
@@ -79,11 +80,12 @@ Pastikan library berikut sudah terinstal di **Arduino IDE** atau **PlatformIO** 
 ---
 
 ## 📸 Dokumentasi Alat
-*(Tambahkan foto purwarupa dan diagram rangkaianmu di folder `images/`, lalu tampilkan di bawah ini)*
 
-- **Hasil Projek:** `images/1794703975894.jpg`
-- **Hasil Projek:** `1794703975901.jpg`
-  **Hasil Projek:** `images/1794703975908.jpg`
+- **Hasil Projek:
+<img width="1064" height="594" alt="1794703975894" src="https://github.com/user-attachments/assets/5239a689-dfac-4a02-a4b9-58b60ec7be3a" />
+<img width="1046" height="587" alt="1794703975901" src="https://github.com/user-attachments/assets/8eb3035a-e629-4eae-9ccd-5817da6b18fb" />
+<img width="1080" height="585" alt="1794703975908" src="https://github.com/user-attachments/assets/2086ab5c-ed1d-4fb9-ae41-e9526cad79e6" />
+
 
 ---
 
