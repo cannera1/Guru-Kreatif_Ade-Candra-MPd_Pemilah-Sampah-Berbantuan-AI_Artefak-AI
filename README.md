@@ -81,8 +81,9 @@ Pastikan library berikut sudah terinstal di **Arduino IDE** atau **PlatformIO** 
 ## 📸 Dokumentasi Alat
 *(Tambahkan foto purwarupa dan diagram rangkaianmu di folder `images/`, lalu tampilkan di bawah ini)*
 
-- **Skema Rangkaian:** `images/wiring-diagram.png`
-- **Hasil Purwarupa:** `images/foto-alat.jpg`
+- **Hasil Projek:** `images/1794703975894.jpg`
+- **Hasil Projek:** `1794703975901.jpg`
+  **Hasil Projek:** `images/1794703975908.jpg`
 
 ---
 
